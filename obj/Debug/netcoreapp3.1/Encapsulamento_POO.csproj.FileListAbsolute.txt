@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\bin\Debug\netcoreapp3.1\Encapsulamento_POO.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\bin\Debug\netcoreapp3.1\Encapsulamento_POO.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\bin\Debug\netcoreapp3.1\Encapsulamento_POO.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\bin\Debug\netcoreapp3.1\Encapsulamento_POO.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\bin\Debug\netcoreapp3.1\Encapsulamento_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\bin\Debug\netcoreapp3.1\Encapsulamento_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Encapsulamento_POO\obj\Debug\netcoreapp3.1\Encapsulamento_POO.genruntimeconfig.cache
